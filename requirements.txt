@@ -1,8 +1,7 @@
-numpy
-matplotlib
-scikit-learn
-torch
-torchvision
-torchaudio
-tqdm
-ipykernel
+numpy==1.26.1
+matplotlib==3.8.1
+scikit-learn==1.5.1
+torch==2.2.2
+torchvision==0.17.2
+tqdm==4.66.2
+ipykernel==6.25.1
